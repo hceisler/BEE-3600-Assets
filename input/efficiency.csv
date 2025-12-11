@@ -2,8 +2,3 @@ Scenario Nickname,Bargraph Label,"Number of ATPs, nf, ATP","Number of NAD(P)H, n
 Nickname,BargraphLabel,ATPforFuel,NADHforFuel,FdForFuel,energyPerFuelMolecule,molecularWeightFuelMolecule,CO2Method,Mediator,voltageCellTwoAnode,voltageCellTwoAnodeBias,voltageCellTwoCathode,voltageCellTwoCathodeBias,voltageCellTwo,voltageCellOneAnode,voltageCellOneAnodeBias,voltageCellOneCathode,voltageCellOneCathodeBias,voltageCellOne,voltageMembrane,vAcceptor,vQuinone,vMtr,scaleUpMode,dependentVariableScale,independentVariableScale,totalInputPower,totalElectricalPower,stirPower
 Cinnamaldehyde_H2,H2 (1),43,26,0.3,9.04E-18,132,Enzymatic,H2,0.82,0.47,-0.41,0.3,2,NA,NA,NA,NA,NA,"[80, 140, 270]",0.82,NA,NA,None,Logarithmic,Linear,1000,330,0
 Cinnamaldehyde_EET,EET (1),43,26,0.3,9.04E-18,132,Enzymatic,EET,0.82,0.47,-0.1,0.2,1.59,NA,NA,NA,NA,NA,"[80, 140, 270]",0.82,-0.0885,-0.1,None,Logarithmic,Linear,1000,330,0
-ARG_H2,H2 (2) here,51,11,16,3.92E-18,174,Enzymatic,H2,0.82,0.47,-0.41,0.3,2,NA,NA,NA,NA,NA,"[80, 140, 270]",0.82,NA,NA,None,Logarithmic,Linear,1000,330,0
-ARG_EET,EET (2) here,51,11,16,3.92E-18,174,Enzymatic,EET,0.82,0.47,-0.1,0.2,1.59,NA,NA,NA,NA,NA,"[80, 140, 270]",0.82,-0.0885,-0.1,None,Logarithmic,Linear,1000,330,0
-
-
-
